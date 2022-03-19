@@ -1,17 +1,29 @@
 # uts_crud
-ujian tengah semester pemrograman web
+Ujian Tengah Semester Pemrograman Web
 
-CREATE
+**CREATE**
 
-![image](https://user-images.githubusercontent.com/101921147/159112306-6241c9fb-6e8c-4f31-97c1-9711bba6bf37.png)
 
-READ
+![image](https://user-images.githubusercontent.com/101685323/158512399-683dddae-a57f-425b-8bd1-7aa89afd903f.png)
 
-![image](https://user-images.githubusercontent.com/101921147/159112336-8efc28c6-b689-43e6-828a-ccfc60037473.png)
 
-UPDATE
 
-![image](https://user-images.githubusercontent.com/101921147/159112382-6bbbc94a-9a52-4a8c-845a-893fdb64c1bc.png)
+**READ**
 
-DELETED
-![image](https://user-images.githubusercontent.com/101921147/159112417-1ff6b45d-565a-4b68-b1aa-5cc7900cbeba.png)
+
+![image](https://user-images.githubusercontent.com/101685323/158512486-d0dd9a2c-04f1-4f1d-856c-b548991b5b2c.png)
+
+
+
+**UPDATE**
+
+
+![image](https://user-images.githubusercontent.com/101685323/158512550-5d4196c7-8553-486b-9f69-3ecf34954d76.png)
+
+
+
+**DELETED**
+
+
+![image](https://user-images.githubusercontent.com/101685323/158512603-46a1e673-e63d-4b7a-ac78-6d0d3a0c8697.png)
+
